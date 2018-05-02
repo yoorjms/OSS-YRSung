@@ -2,6 +2,7 @@
 
 int main()
 {
- prints("Open Source SW Project\n");
+ printf("Open Source SW Project\n");
+ printf("First GitHub Tranning\n");
  return 0;
 }
